@@ -469,7 +469,7 @@
 - [FOSS for Developers](https://github.com/tvvocold/FOSS-for-Dev#readme)
 - [Hyper](https://github.com/bnb/awesome-hyper#readme) - Cross-platform terminal app built on web technologies.
 - [PowerShell](https://github.com/janikvonrotz/awesome-powershell#readme) - Cross-platform object-oriented shell.
-- [Alfred Workflows](https://github.com/alfred-workflows/awesome-alfred-workflows#readme) - Productivity app for macOS.
+- [Alfred Workflows](https://github.com/alfred-workflows/awesome-alfred-workflows#readme) - app for macOS.
 - [Terminals Are Sexy](https://github.com/k4m4/terminals-are-sexy#readme)
 - [GitHub Actions](https://github.com/sdras/awesome-actions#readme) - Create tasks to automate your workflow and share them with others on GitHub.
 
@@ -593,6 +593,7 @@
 	- [Communities](https://github.com/filipelinhares/awesome-slack#readme)
 - [Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job#readme)
 - [Productivity](https://github.com/jyguyomarch/awesome-productivity#readme)
+- [Developer Experience](https://github.com/prokopsimek/awesome-developer-experience#readme) - Developer experience resources, tools and practices.
 - [Niche Job Boards](https://github.com/tramcar/awesome-job-boards#readme)
 - [Programming Interviews](https://github.com/DopplerHQ/awesome-interview-questions#readme)
 - [Code Review](https://github.com/joho/awesome-code-review#readme) - Reviewing code.
